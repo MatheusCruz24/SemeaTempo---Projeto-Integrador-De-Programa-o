@@ -10,6 +10,7 @@ O foco está em coletar e organizar informações sobre o clima local de forma a
 
 🧰 Tecnologias Utilizadas
 🐍 Python 3.x
+
 🔍 O que estamos raspando?
 Coletamos informações como:
 
@@ -21,19 +22,20 @@ Coletamos informações como:
 
 💨 Velocidade do vento
 
+🔍 Histórico da região
+
 Fontes confiáveis e acessíveis publicamente serão utilizadas, respeitando sempre os limites de acesso dos sites.
 
 🌾 Por que isso importa?
 Guarapuava é uma cidade de clima temperado com forte presença agrícola. Monitorar o clima local pode:
-
 Ajudar pequenos produtores na tomada de decisões
-
 Apoiar pesquisas meteorológicas
-
 Servir de base para apps educacionais ou preditivos
 
 👩‍🌾 Equipe
 
 Matheus Cruz 
+
 Maria Helana de Souza
+
 Juliana Cardoso paulena
