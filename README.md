@@ -33,8 +33,7 @@ Apoiar pesquisas meteorológicas
 Servir de base para apps educacionais ou preditivos
 
 👩‍🌾 Equipe
+
 Matheus Cruz 
-
 Maria Helana de Souza
-
 Juliana Cardoso paulena
